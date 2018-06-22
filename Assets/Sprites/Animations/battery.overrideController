@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: battery
+  m_Controller: {fileID: 9100000, guid: 61febfc9b346e4a46a3e8ea3dc648d90, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a1c1b14f642d2b94ba643a997f28fda1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b01ea665969d08d40837f884819714b6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a217aa69b76823d47a499bb379599cbb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 356d5f42884ac7a42a9836d1a439ab49, type: 2}
